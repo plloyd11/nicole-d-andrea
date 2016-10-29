@@ -27,18 +27,6 @@
 		"oAP": "\/blog.html",
 		"oF": 0
 		},
-	"\/catalog.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/catalog.html",
-		"oF": 0
-		},
-	"\/checkout.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/checkout.html",
-		"oF": 0
-		},
 	"\/classes.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -188,70 +176,6 @@
 		"oA": 2,
 		"oAP": "\/fonts\/FontAwesome.otf",
 		"oF": 0
-		},
-	"\/images\/10422023_10101854373447725_5631612353134183864_n.jpg": {
-		"ft": 16384,
-		"iS": 113720,
-		"oA": 0,
-		"oAP": "\/images\/10422023_10101854373447725_5631612353134183864_n.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/14100328_10102875187438305_494902111582244340_n.jpg": {
-		"ft": 16384,
-		"iS": 50778,
-		"oA": 0,
-		"oAP": "\/images\/14100328_10102875187438305_494902111582244340_n.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/14199303_10102875187448285_8446072474371272601_n.jpg": {
-		"ft": 16384,
-		"iS": 96619,
-		"oA": 0,
-		"oAP": "\/images\/14199303_10102875187448285_8446072474371272601_n.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/404.png": {
-		"ft": 32768,
-		"iS": 2825,
-		"oA": 0,
-		"oAP": "\/images\/404.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/464745_10100904103401515_706645562_o.jpg": {
-		"ft": 16384,
-		"iS": 199163,
-		"oA": 0,
-		"oAP": "\/images\/464745_10100904103401515_706645562_o.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/976064_10100904103296725_1217662372_o.jpg": {
-		"ft": 16384,
-		"iS": 220093,
-		"oA": 0,
-		"oAP": "\/images\/976064_10100904103296725_1217662372_o.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/about-nicole.jpg": {
-		"ft": 16384,
-		"iS": 13808100,
-		"oA": 0,
-		"oAP": "\/images\/about-nicole.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/art-of-adjustment.jpg": {
-		"ft": 16384,
-		"iS": 262935,
-		"oA": 0,
-		"oAP": "\/images\/art-of-adjustment.jpg",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/images\/bx_loader.gif": {
 		"ft": 4194304,
@@ -797,14 +721,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/controls.png": {
-		"ft": 32768,
-		"iS": 1022,
-		"oA": 0,
-		"oAP": "\/images\/controls.png",
-		"oF": 0,
-		"opt": 1
-		},
 	"\/images\/events\/kirtan.jpg": {
 		"ft": 16384,
 		"iS": 104577,
@@ -818,22 +734,6 @@
 		"iS": 54577,
 		"oA": 0,
 		"oAP": "\/images\/events\/skillful-assist.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/homeslide.jpg": {
-		"ft": 16384,
-		"iS": 441522,
-		"oA": 0,
-		"oAP": "\/images\/homeslide.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/how-music-moves-me.jpg": {
-		"ft": 16384,
-		"iS": 116919,
-		"oA": 0,
-		"oAP": "\/images\/how-music-moves-me.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -861,14 +761,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/IMG_0898.jpg": {
-		"ft": 16384,
-		"iS": 425819,
-		"oA": 0,
-		"oAP": "\/images\/IMG_0898.jpg",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/images\/IMG_0933.jpg": {
 		"ft": 16384,
 		"iS": 12622800,
@@ -877,19 +769,43 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/IMG_1035.jpg": {
+	"\/images\/instagram\/insta-1.jpg": {
 		"ft": 16384,
-		"iS": 287311,
+		"iS": 75418,
 		"oA": 0,
-		"oAP": "\/images\/IMG_1035.jpg",
+		"oAP": "\/images\/instagram\/insta-1.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/IMG_2415.JPG": {
+	"\/images\/instagram\/insta-2.jpg": {
 		"ft": 16384,
-		"iS": 179731,
+		"iS": 97053,
 		"oA": 0,
-		"oAP": "\/images\/IMG_2415.JPG",
+		"oAP": "\/images\/instagram\/insta-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/instagram\/insta-3.jpg": {
+		"ft": 16384,
+		"iS": 74454,
+		"oA": 0,
+		"oAP": "\/images\/instagram\/insta-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/instagram\/insta-4.jpg": {
+		"ft": 16384,
+		"iS": 40100,
+		"oA": 0,
+		"oAP": "\/images\/instagram\/insta-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/instagram\/insta-5.jpg": {
+		"ft": 16384,
+		"iS": 122830,
+		"oA": 0,
+		"oAP": "\/images\/instagram\/insta-5.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -923,30 +839,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/nicole-homepage.jpg": {
-		"ft": 16384,
-		"iS": 187396,
-		"oA": 0,
-		"oAP": "\/images\/nicole-homepage.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/nicole-pose-1.jpg": {
-		"ft": 16384,
-		"iS": 76679,
-		"oA": 0,
-		"oAP": "\/images\/nicole-pose-1.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/peaceful-sleep.jpg": {
-		"ft": 16384,
-		"iS": 93601,
-		"oA": 0,
-		"oAP": "\/images\/peaceful-sleep.jpg",
-		"oF": 0,
-		"opt": 1
-		},
 	"\/images\/sprite.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -956,22 +848,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/images\/what-i-admire.jpg": {
-		"ft": 16384,
-		"iS": 86628,
-		"oA": 0,
-		"oAP": "\/images\/what-i-admire.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/yoga-classes.jpg": {
-		"ft": 16384,
-		"iS": 210687,
-		"oA": 0,
-		"oAP": "\/images\/yoga-classes.jpg",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/index.html": {
 		"ft": 8192,
@@ -1053,7 +929,7 @@
 		"oA": 0,
 		"oAP": "\/README.html",
 		"oF": 0,
-		"oFM": 0,
+		"oFM": 9,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
@@ -1066,9 +942,22 @@
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 1,
 		"oAP": "\/css\/_base.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/sass\/layout\/_navigation.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/sass\/css\/_navigation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1086,6 +975,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/sass\/pages\/_contact.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/sass\/css\/_contact.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/single-event.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -1097,17 +999,11 @@
 		"oA": 0,
 		"oAP": "\/single-post.html",
 		"oF": 0
-		},
-	"\/single-product.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/single-product.html",
-		"oF": 0
 		}
 	},
 "hooks": [
 	{
-		"enabled": 1,
+		"enabled": 0,
 		"name": "Hook #1",
 		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF5uaWNvbGUtd2Vic2l0ZdIrLE1OXxAZTlNDb25zdGFudFZhbHVlRXhwcmVzc2lvbqNNLzDUC1BRUlNJKFRaTlNNb2RpZmllcldOU0ZsYWdzXk5TT3BlcmF0b3JUeXBlgBIQY9IrLFZXXxAVTlNJblByZWRpY2F0ZU9wZXJhdG9yo1ZYMF8QE05TUHJlZGljYXRlT3BlcmF0b3LSKyxaW18QFU5TQ29tcGFyaXNvblByZWRpY2F0ZaNaXDBbTlNQcmVkaWNhdGXSKyxBXqJBMNIrLGBhXxATTlNDb21wb3VuZFByZWRpY2F0ZaNgXDBfEA9OU0tleWVkQXJjaGl2ZXLRZGVUcm9vdIABAAgAEQAaACMALQAyADcAUABWAF0AdwCJAJAAkgCUAJYAmwCmAKgAqgCsALUAyQDcAPIA9AD2APgA+gEFAQ8BHgExAT0BPwFBAUMBRQFHAVQBWQFbAV0BYgFtAXYBiQGNAZoBowGoAaoBrAGuAbUBvwHBAcMBxQHTAdgB9wH7AgACDwITAhsCIAI2AjsCUgJZAmsCbQJvAnECgAKFAqECpQKuArkCwQLQAtIC1ALZAvEC9QMLAxADKAMsAzgDPQNAA0UDWwNfA3EDdAN5AAAAAAAAAgEAAAAAAAAAZgAAAAAAAAAAAAAAAAAAA3s=",
 		"runOrder": 0,
@@ -2906,7 +2802,7 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
-		"outputFormat": 0,
+		"outputFormat": 9,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
@@ -2946,7 +2842,7 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"outputStyle": 0,
@@ -3014,7 +2910,7 @@
 		],
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
-	"sourceFolderName": "source",
+	"sourceFolderName": "src",
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {

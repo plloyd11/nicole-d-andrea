@@ -1,265 +1,196 @@
 <!DOCTYPE html>
 <html lang="uk">
-	<head>
-		<title>Asana - Classes</title>
-		<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-		<!--[if lte IE 8]>
-		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-		<!--[if lt IE 8]>
-			<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
-		<![endif]-->
-		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-		<link rel="stylesheet" type="text/css" href="css/bxslider.css" media="screen" />
-		<link rel="stylesheet" type="text/css" href="css/fullcalendar.css" media="screen" />
-		<link rel="stylesheet" type="text/css" href="css/fullcalendar.print.css" media='print' />
-		<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" media="screen" />
-		<link rel="stylesheet" type="text/css" href="css/selectric.css" media="screen" />
-		<link rel="stylesheet" type="text/css" href="css/main.css" media="screen" />
-		<link rel="stylesheet" type="text/css" href="css/adaptive.css" media="screen" />
 
-		<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-		<script type="text/javascript" src="js/jquery.selectric.min.js"></script>
-		<script type="text/javascript" src="js/moment.min.js"></script>
-		<script type="text/javascript" src="js/fullcalendar.min.js"></script>
-		<script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
-		<script type="text/javascript" src="js/script.js"></script>
-		<script>
-			$(document).ready(function() {
+<head>
+	<title>Nicole D&#039;Andrea Yoga | Classes</title>
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-				$('#calendar').fullCalendar({
-					header: {
-						left: 'prev',
-						center: 'title',
-						right: 'next'
-					},
-					axisFormat: 'HH:mm',
-					minTime: '08:00:00',
-					maxTime: '20:00:00',
-					defaultView: 'agendaWeek',
-					defaultDate: '2015-03-09',
-					firstDay: 1,
-					slotDuration: '01:00:00',
-					columnFormat: 'dddd',
-					allDaySlot: false,
-					editable: false, // Чи можна перетягувати
-					eventLimit: true, // allow "more" link when too many events
-					events: [
-						{
-							title: 'Yoga with Ann Macsal',
-							start: '2015-03-09T08:00:00',
-							end: '2015-03-09T10:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-yoga'
-						},
-						{
-							title: 'Yoga with Ann Macsal',
-							start: '2015-03-12T09:00:00',
-							end: '2015-03-12T11:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-yoga'
-						},
-						{
-							title: 'Yoga with Ann Macsal',
-							start: '2015-03-14T10:00:00',
-							end: '2015-03-14T12:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-yoga'
-						},
-						{
-							title: 'Cardio Fitness with Christina Fowler',
-							start: '2015-03-13T08:00:00',
-							end: '2015-03-13T09:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-cardio-fitness'
-						},
-						{
-							title: 'Cardio Fitness with Christina Fowler',
-							start: '2015-03-11T14:00:00',
-							end: '2015-03-11T15:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-cardio-fitness'
-						},
-						{
-							title: 'Cardio Fitness with Christina Fowler',
-							start: '2015-03-14T15:00:00',
-							end: '2015-03-14T16:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-cardio-fitness'
-						},
-						{
-							title: 'Aerobics with Michelle Richards',
-							start: '2015-03-10T16:00:00',
-							end: '2015-03-10T18:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-aerobics'
-						},
-						{
-							title: 'Aerobics with Michelle Richards',
-							start: '2015-03-13T12:00:00',
-							end: '2015-03-13T14:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-aerobics'
-						},
-						{
-							title: 'Pilates with Danielle Hayes',
-							start: '2015-03-11T10:00:00',
-							end: '2015-03-11T12:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-pilates'
-						},
-						{
-							title: 'Pilates with Danielle Hayes',
-							start: '2015-03-13T18:00:00',
-							end: '2015-03-13T20:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-pilates'
-						},
-						{
-							title: 'Pilates with Danielle Hayes',
-							start: '2015-03-15T13:00:00',
-							end: '2015-03-15T15:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-pilates'
-						},
-						{
-							title: 'Spinning with Jeremy Clark',
-							start: '2015-03-09T13:00:00',
-							end: '2015-03-09T14:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-spinning'
-						},
-						{
-							title: 'Spinning with Jeremy Clark',
-							start: '2015-03-12T17:00:00',
-							end: '2015-03-12T18:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-spinning'
-						},
-						{
-							title: 'Spinning with Jeremy Clark',
-							start: '2015-03-15T09:00:00',
-							end: '2015-03-15T10:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-spinning'
-						},
-						{
-							title: 'Spinning with Jeremy Clark',
-							start: '2015-03-16T13:00:00',
-							end: '2015-03-16T14:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-spinning'
-						},
-						{
-							title: 'Spinning with Jeremy Clark',
-							start: '2015-03-18T17:00:00',
-							end: '2015-03-18T18:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-spinning'
-						},
-						{
-							title: 'Spinning with Jeremy Clark',
-							start: '2015-03-19T09:00:00',
-							end: '2015-03-19T10:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-spinning'
-						},
-						{
-							title: 'Pilates with Danielle Hayes',
-							start: '2015-03-17T10:00:00',
-							end: '2015-03-17T12:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-pilates'
-						},
-						{
-							title: 'Pilates with Danielle Hayes',
-							start: '2015-03-21T11:00:00',
-							end: '2015-03-21T13:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-pilates'
-						},
-						{
-							title: 'Aerobics with Michelle Richards',
-							start: '2015-03-22T16:00:00',
-							end: '2015-03-22T18:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-aerobics'
-						},
-						{
-							title: 'Aerobics with Michelle Richards',
-							start: '2015-03-19T13:00:00',
-							end: '2015-03-19T15:00:00',
-							url: 'http://google.com/',
-							className: 'fc-event-aerobics'
-						}
-					]
-				});
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" type="text/css" href="css/bxslider.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="css/fullcalendar.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="css/fullcalendar.print.css" media='print' />
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="css/selectric.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="css/main.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="css/adaptive.css" media="screen" />
 
+	<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.selectric.min.js"></script>
+	<script type="text/javascript" src="js/moment.min.js"></script>
+	<script type="text/javascript" src="js/fullcalendar.min.js"></script>
+	<script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+	<script>
+		$(document).ready(function() {
+
+			$('#calendar').fullCalendar({
+				header: {
+					left: 'prev',
+					center: 'title',
+					right: 'next'
+				},
+				axisFormat: 'HH:mm',
+				minTime: '08:00:00',
+				maxTime: '22:00:00',
+				defaultView: 'agendaWeek',
+				defaultDate: '2016-10-31',
+				firstDay: 1,
+				slotDuration: '01:00:00',
+				columnFormat: 'dddd',
+				allDaySlot: false,
+				editable: false,
+				eventLimit: true, // allow "more" link when too many events
+				events: [{
+					title: 'Powerflow Yoga (Randolph) – Hot Vinyasa Power Hour',
+					start: '2016-10-31T12:00:00',
+					end: '2016-10-31T14:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-yoga'
+				}, {
+					title: ' South Mountain Yoga – Basic',
+					start: '2016-10-31T18:15:00',
+					end: '2016-10-31T20:00:00',
+					url: 'http://southmountainyoga.com/',
+					className: 'fc-event-yoga'
+				}, {
+					title: 'Bhakti Barn Yoga (Glen Ridge) – Gentle Yoga',
+					start: '2016-11-01T11:30:00',
+					end: '2016-11-01T01:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-yoga'
+				}, {
+					title: 'Dhyana Yoga Arts – Open Level Vinyasa',
+					start: '2016-11-02T12:45:00',
+					end: '2016-11-02T02:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-cardio-fitness'
+				}, {
+					title: 'Bhakti Barn Yoga (Millburn) – Bhakti Basics',
+					start: '2016-11-02T19:45:00',
+					end: '2016-11-02T21:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-cardio-fitness'
+				}, {
+					title: 'hOMe Yoga Experience-Mixed Level Vinyasa',
+					start: '2016-11-03T09:30:00',
+					end: '2016-11-03T11:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-cardio-fitness'
+				}, {
+					title: 'hOMe Yoga Experience – Mixed Level Vinyasa',
+					start: '2016-11-03T19:15:00',
+					end: '2016-11-03T21:00:00',
+					url: 'http://homeyogaexperience.com/',
+					className: 'fc-event-cardio-fitness'
+				}, {
+					title: 'Bhakti Barn Yoga (Glen Ridge) – Gentle Yoga',
+					start: '2016-11-04T11:30:00',
+					end: '2016-11-04T13:00:00',
+					url: 'http://homeyogaexperience.com/',
+					className: 'fc-event-cardio-fitness'
+				}, {
+					title: 'Bhakti Barn Yoga (Millburn) –  Open Level Vinyasa',
+					start: '2016-11-06T08:30:00',
+					end: '2016-11-06T10:00:00',
+					url: 'http://homeyogaexperience.com/',
+					className: 'fc-event-cardio-fitness'
+				}, {
+					title: 'Bhakti Barn Yoga (Glen Ridge) – Open Level Vinyasa',
+					start: '2016-11-06T11:00:00',
+					end: '2016-11-06T13:00:00',
+					url: 'http://homeyogaexperience.com/',
+					className: 'fc-event-cardio-fitness'
+				}, {
+					title: 'Spinning with Jeremy Clark',
+					start: '2015-03-09T13:00:00',
+					end: '2015-03-09T14:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-spinning'
+				}, {
+					title: 'Spinning with Jeremy Clark',
+					start: '2015-03-12T17:00:00',
+					end: '2015-03-12T18:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-spinning'
+				}, {
+					title: 'Spinning with Jeremy Clark',
+					start: '2015-03-15T09:00:00',
+					end: '2015-03-15T10:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-spinning'
+				}, {
+					title: 'Spinning with Jeremy Clark',
+					start: '2015-03-16T13:00:00',
+					end: '2015-03-16T14:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-spinning'
+				}, {
+					title: 'Spinning with Jeremy Clark',
+					start: '2015-03-18T17:00:00',
+					end: '2015-03-18T18:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-spinning'
+				}, {
+					title: 'Spinning with Jeremy Clark',
+					start: '2015-03-19T09:00:00',
+					end: '2015-03-19T10:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-spinning'
+				}, {
+					title: 'Pilates with Danielle Hayes',
+					start: '2015-03-17T10:00:00',
+					end: '2015-03-17T12:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-pilates'
+				}, {
+					title: 'Aerobics with Michelle Richards',
+					start: '2015-03-19T13:00:00',
+					end: '2015-03-19T15:00:00',
+					url: 'http://google.com/',
+					className: 'fc-event-aerobics'
+				}]
 			});
 
-		</script>
+		});
+	</script>
 
-	</head>
+</head>
+
 <body class="classes">
-	<header id="header" class="clear">
-		<div class="headerWrap clear">
+	<!-- Start Navigation -->
+	<header id="header">
+		<div class="headerWrap">
 			<a href="#" class="logo">
 				<img class="logo-white" src="images/logo-white.svg" alt="Nicole D'Andrea Yoga">
 				<img class="logo-black" src="images/logo-black.svg" alt="Nicole D'Andrea Yoga">
 			</a>
 			<nav class="mainMenu">
-				<ul class="clear">
-					<li><a href="index.html">home</a></li>
-					<li class="current-menu-item">
+				<ul>
+					<li class="current-menu-item"><a href="index.html">home</a></li>
+					<li>
 						<a href="classes.html">Classes</a>
-						<ul>
-							<li><a href="#">outdoor</a></li>
-							<li><a href="#">yoga</a></li>
-							<li><a href="#">fitness</a></li>
-							<li class="menu-item-has-children">
-								<a href="#">training</a>
-								<ul>
-									<li><a href="#">training 1</a></li>
-									<li><a href="#">training 2</a></li>
-								</ul>
-							</li>
-						</ul>
 					</li>
 					<li>
 						<a href="events.html">Events</a>
-						<ul>
-							<li><a href="single-event.html">Single event</a></li>
-						</ul>
-					</li>
-					<li>
-						<a href="catalog.html">Shop</a>
-						<ul>
-							<li><a href="cart.html">Cart</a></li>
-							<li><a href="cart-empty.html">Cart empty</a></li>
-							<li><a href="checkout.html">Checkout</a></li>
-							<li><a href="single-product.html">Single product</a></li>
-						</ul>
 					</li>
 					<li><a href="about.html">About</a></li>
 					<li>
 						<a href="blog.html">Blog</a>
-						<ul>
-							<li><a href="single-post.html">single post</a></li>
-							<li><a href="404.html">404 page</a></li>
-						</ul>
 					</li>
 					<li><a href="contact.html">Contact</a></li>
 				</ul>
 			</nav>
 			<span class="showMobileMenu">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
+			<span></span>
+			<span></span>
+			<span></span>
+			<span></span>
 			</span>
 		</div>
 	</header>
+	<!-- End Navigation -->
 	<section class="container">
 		<div class="pageHeader" style="background-image: url(images/content/bg-parallax3.jpg);">
 			<h1>choose your classes</h1>
@@ -280,20 +211,20 @@
 			</div>
 		</div>
 	</section>
+	<!-- Begin Footer -->
 	<footer id="footer" class="clear">
+		<h4 class="classes-callout">I am also available for privates, semi-privates, teacher trainings, kirtan, and harmonium lessons. Please contact nicoledandreayoga@gmail.com for more information.</h4>
 		<div class="footerSocial clear">
-			<a href="#"><i class="fa fa-facebook"></i></a>
-			<a href="#"><i class="fa fa-twitter"></i></a>
-			<a href="#"><i class="fa fa-instagram"></i></a>
-			<a href="#"><i class="fa fa-pinterest"></i></a>
+			<a href="https://www.facebook.com/nicoledandreayoga" target="_blank"><i class="fa fa-facebook"></i></a>
+			<a href="https://twitter.com/yoganicoled" target="_blank"><i class="fa fa-twitter"></i></a>
+			<a href="https://www.instagram.com/nicoledandreayoga/" target="_blank"><i class="fa fa-instagram"></i></a>
 		</div>
 		<ul class="footerMenu clear">
 			<li><a href="#">Classes</a></li>
 			<li><a href="#">Events</a></li>
-			<li><a href="#">Shop</a></li>
-			<li><a href="#">About</a></li>
+			<li><a href="/about.html">About</a></li>
 			<li><a href="#">Blog</a></li>
-			<li><a href="#">Contact</a></li>
+			<li><a href="/contact.html">Contact</a></li>
 		</ul>
 		<div class="footerSubscribe">
 			<form>
@@ -302,52 +233,26 @@
 			</form>
 		</div>
 		<div class="copyright">
-			<p>Copyright &copy; 2015. Asana All rights reserved</p>
+			<p>Copyright &copy; 2016 Nicole D'Adrea. All right reserved.</p>
 		</div>
 	</footer>
 	<div class="mobileMenu">
 		<ul>
-			<li><a href="index.html">home</a></li>
-			<li class="current-menu-item">
+			<li><a href="index.html">Home</a></li>
+			<li>
 				<a href="classes.html">Classes</a>
-				<ul class="sub-menu">
-					<li><a href="#">Outdoor</a></li>
-					<li><a href="#">Yoga</a></li>
-					<li><a href="#">Fitness</a></li>
-					<li class="menu-item-has-children">
-						<a href="#">Training</a>
-						<ul class="sub-menu">
-							<li><a href="#">Training 1</a></li>
-							<li><a href="#">Training 2</a></li>
-						</ul>
-					</li>
-				</ul>
 			</li>
-			<li>
+			<li class="current-menu-item">
 				<a href="events.html">Events</a>
-				<ul class="sub-menu">
-					<li><a href="single-event.html">Single event</a></li>
-				</ul>
-			</li>
-			<li>
-				<a href="catalog.html">Shop</a>
-				<ul class="sub-menu">
-					<li><a href="cart.html">Cart</a></li>
-					<li><a href="cart-empty.html">Cart empty</a></li>
-					<li><a href="checkout.html">Checkout</a></li>
-					<li><a href="single-product.html">Single product</a></li>
-				</ul>
 			</li>
 			<li><a href="about.html">About</a></li>
 			<li>
 				<a href="blog.html">Blog</a>
-				<ul class="sub-menu">
-					<li><a href="single-post.html">Single post</a></li>
-					<li><a href="404.html">404 page</a></li>
-				</ul>
 			</li>
 			<li><a href="contact.html">Contact</a></li>
 		</ul>
 	</div>
+	<!-- End Footer -->
 </body>
+
 </html>

@@ -1,0 +1,26 @@
+.headerWrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    @media (min-width: 768px) {
+      align-items: baseline;
+    }
+}
+
+.logo {
+    img {
+        width: 150px;
+        height: 100%;
+        @media (min-width: 768px) {
+          width: 185px;
+        }
+    }
+}
+
+.mainMenu {
+    margin-right: 2%;
+
+    a {
+        font-size: 1.05rem;
+    }
+}
