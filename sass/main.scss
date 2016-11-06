@@ -4,6 +4,11 @@
 
 // Homepage
 
+// Kill slider nav
+.bx-pager-item {
+  display: none !important;
+}
+
 .gridItemWrap {
   display: flex;
   flex-wrap: wrap;

@@ -7,8 +7,14 @@
 		"uuidString": "7FE8C6F7-412C-489F-9675-E0BA34EE069F"
 		}
 	],
-"creatorBuild": "25378",
+"creatorBuild": "25444",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/404.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -38,6 +44,16 @@
 		"oA": 0,
 		"oAP": "\/contact.html",
 		"oF": 0
+		},
+	"\/css\/adaptive-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/adaptive-ck-ck.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/css\/adaptive.css": {
 		"aP": 0,
@@ -177,11 +193,131 @@
 		"oAP": "\/fonts\/FontAwesome.otf",
 		"oF": 0
 		},
+	"\/images\/10422023_10101854373447725_5631612353134183864_n.jpg": {
+		"ft": 16384,
+		"iS": 109421,
+		"oA": 0,
+		"oAP": "\/images\/10422023_10101854373447725_5631612353134183864_n.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/14100328_10102875187438305_494902111582244340_n.jpg": {
+		"ft": 16384,
+		"iS": 48377,
+		"oA": 0,
+		"oAP": "\/images\/14100328_10102875187438305_494902111582244340_n.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/14199303_10102875187448285_8446072474371272601_n.jpg": {
+		"ft": 16384,
+		"iS": 93057,
+		"oA": 0,
+		"oAP": "\/images\/14199303_10102875187448285_8446072474371272601_n.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/404.png": {
+		"ft": 32768,
+		"iS": 2825,
+		"oA": 0,
+		"oAP": "\/images\/404.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/464745_10100904103401515_706645562_o.jpg": {
+		"ft": 16384,
+		"iS": 196742,
+		"oA": 0,
+		"oAP": "\/images\/464745_10100904103401515_706645562_o.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/976064_10100904103296725_1217662372_o.jpg": {
+		"ft": 16384,
+		"iS": 211859,
+		"oA": 0,
+		"oAP": "\/images\/976064_10100904103296725_1217662372_o.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/about-me.jpg": {
+		"ft": 16384,
+		"iS": 1485169,
+		"oA": 0,
+		"oAP": "\/images\/about-me.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/about-nicole.jpg": {
+		"ft": 16384,
+		"iS": 187964,
+		"oA": 0,
+		"oAP": "\/images\/about-nicole.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/art-of-adjustment.jpg": {
+		"ft": 16384,
+		"iS": 229918,
+		"oA": 0,
+		"oAP": "\/images\/art-of-adjustment.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/how-music-moves-me.jpg": {
+		"ft": 16384,
+		"iS": 113476,
+		"oA": 0,
+		"oAP": "\/images\/blog\/how-music-moves-me.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/peaceful-sleep.jpg": {
+		"ft": 16384,
+		"iS": 67546,
+		"oA": 0,
+		"oAP": "\/images\/blog\/peaceful-sleep.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/what-i-admire.jpg": {
+		"ft": 16384,
+		"iS": 86446,
+		"oA": 0,
+		"oAP": "\/images\/blog\/what-i-admire.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/yoga-reads.jpg": {
+		"ft": 16384,
+		"iS": 118146,
+		"oA": 0,
+		"oAP": "\/images\/blog\/yoga-reads.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/bx_loader.gif": {
 		"ft": 4194304,
 		"iS": 8581,
 		"oA": 0,
 		"oAP": "\/images\/bx_loader.gif",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/contact-callout.jpg": {
+		"ft": 16384,
+		"iS": 236502,
+		"oA": 0,
+		"oAP": "\/images\/contact-callout.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/contact-hero.jpg": {
+		"ft": 16384,
+		"iS": 1906969,
+		"oA": 0,
+		"oAP": "\/images\/contact-hero.jpg",
 		"oF": 0,
 		"opt": 1
 		},
@@ -721,6 +857,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/controls.png": {
+		"ft": 32768,
+		"iS": 947,
+		"oA": 0,
+		"oAP": "\/images\/controls.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/events\/kirtan.jpg": {
 		"ft": 16384,
 		"iS": 104577,
@@ -734,6 +878,86 @@
 		"iS": 54577,
 		"oA": 0,
 		"oAP": "\/images\/events\/skillful-assist.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/everyday-practice.jpg": {
+		"ft": 16384,
+		"iS": 1539145,
+		"oA": 0,
+		"oAP": "\/images\/everyday-practice.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/full-size\/IMG_7475.jpg": {
+		"ft": 16384,
+		"iS": 11323928,
+		"oA": 0,
+		"oAP": "\/images\/full-size\/IMG_7475.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/full-size\/IMG_7485.jpg": {
+		"ft": 16384,
+		"iS": 12370297,
+		"oA": 0,
+		"oAP": "\/images\/full-size\/IMG_7485.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/full-size\/IMG_7488.jpg": {
+		"ft": 16384,
+		"iS": 11004136,
+		"oA": 0,
+		"oAP": "\/images\/full-size\/IMG_7488.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/full-size\/IMG_7492.jpg": {
+		"ft": 16384,
+		"iS": 11403811,
+		"oA": 0,
+		"oAP": "\/images\/full-size\/IMG_7492.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/full-size\/IMG_7495.jpg": {
+		"ft": 16384,
+		"iS": 9685755,
+		"oA": 0,
+		"oAP": "\/images\/full-size\/IMG_7495.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/full-size\/IMG_7511.jpg": {
+		"ft": 16384,
+		"iS": 7176488,
+		"oA": 0,
+		"oAP": "\/images\/full-size\/IMG_7511.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/full-size\/IMG_7538.jpg": {
+		"ft": 16384,
+		"iS": 16891647,
+		"oA": 0,
+		"oAP": "\/images\/full-size\/IMG_7538.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/full-size\/IMG_7545.jpg": {
+		"ft": 16384,
+		"iS": 24204381,
+		"oA": 0,
+		"oAP": "\/images\/full-size\/IMG_7545.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/homeslide.jpg": {
+		"ft": 16384,
+		"iS": 383808,
+		"oA": 0,
+		"oAP": "\/images\/homeslide.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -761,6 +985,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/IMG_0898.jpg": {
+		"ft": 16384,
+		"iS": 394968,
+		"oA": 0,
+		"oAP": "\/images\/IMG_0898.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/IMG_0933.jpg": {
 		"ft": 16384,
 		"iS": 12622800,
@@ -768,6 +1000,30 @@
 		"oAP": "\/images\/IMG_0933.jpg",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/images\/IMG_1035.jpg": {
+		"ft": 16384,
+		"iS": 274211,
+		"oA": 0,
+		"oAP": "\/images\/IMG_1035.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/IMG_2415.JPG": {
+		"ft": 16384,
+		"iS": 161360,
+		"oA": 0,
+		"oAP": "\/images\/IMG_2415.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/impossible-is-nothing.jpg": {
+		"ft": 16384,
+		"iS": 2083941,
+		"oA": 0,
+		"oAP": "\/images\/impossible-is-nothing.jpg",
+		"oF": 0,
+		"opt": 1
 		},
 	"\/images\/instagram\/insta-1.jpg": {
 		"ft": 16384,
@@ -809,6 +1065,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/live-what-you-love.jpg": {
+		"ft": 16384,
+		"iS": 1182681,
+		"oA": 0,
+		"oAP": "\/images\/live-what-you-love.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/logo-black.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -839,6 +1103,38 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/images\/mat-pose-1.jpg": {
+		"ft": 16384,
+		"iS": 300441,
+		"oA": 0,
+		"oAP": "\/images\/mat-pose-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/nicole-homepage.jpg": {
+		"ft": 16384,
+		"iS": 119253,
+		"oA": 0,
+		"oAP": "\/images\/nicole-homepage.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/nicole-pose-1.jpg": {
+		"ft": 16384,
+		"iS": 67372,
+		"oA": 0,
+		"oAP": "\/images\/nicole-pose-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/nicole-tree.jpg": {
+		"ft": 16384,
+		"iS": 337320,
+		"oA": 0,
+		"oAP": "\/images\/nicole-tree.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/sprite.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -848,6 +1144,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/images\/yoga-classes.jpg": {
+		"ft": 16384,
+		"iS": 141015,
+		"oA": 0,
+		"oAP": "\/images\/yoga-classes.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/index.html": {
 		"ft": 8192,
@@ -935,6 +1239,18 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/_base.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/_base.scssc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/main.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/main.scssc",
+		"oF": 0
 		},
 	"\/sass\/_base.scss": {
 		"aP": 0,
@@ -1035,6 +1351,9 @@
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"async-generator-functions": {
+			"active": 0
+			},
 		"async-to-generator": {
 			"active": 0
 			},
@@ -2123,6 +2442,10 @@
 			"active": 0,
 			"optionString": "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
 			},
+		"no-useless-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-var": {
 			"active": 0,
 			"optionString": ""
@@ -2190,10 +2513,6 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
-			},
-		"prefer-reflect": {
-			"active": 0,
-			"optionString": "{'exceptions': []}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
