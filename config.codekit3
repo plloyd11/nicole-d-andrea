@@ -12,43 +12,97 @@
 	"\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/.gitignore",
+		"oAP": "\/build\/.gitignore",
 		"oF": 0
 		},
 	"\/404.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/404.html",
+		"oAP": "\/build\/404.html",
 		"oF": 0
 		},
 	"\/about.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/about.html",
+		"oAP": "\/build\/about.html",
 		"oF": 0
 		},
 	"\/blog.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/blog.html",
+		"oAP": "\/build\/blog.html",
+		"oF": 0
+		},
+	"\/blog\/beginning-a-yoga-practice-and-your-very-first-class.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/beginning-a-yoga-practice-and-your-very-first-class.html",
+		"oF": 0
+		},
+	"\/blog\/how-music-moves-me-the-power-of-sound.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/how-music-moves-me-the-power-of-sound.html",
+		"oF": 0
+		},
+	"\/blog\/if-you-build-it.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/if-you-build-it.html",
+		"oF": 0
+		},
+	"\/blog\/keys-to-a-successful-home-practice.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/keys-to-a-successful-home-practice.html",
+		"oF": 0
+		},
+	"\/blog\/on-yoga-assists.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/on-yoga-assists.html",
+		"oF": 0
+		},
+	"\/blog\/restorative-yoga.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/restorative-yoga.html",
+		"oF": 0
+		},
+	"\/blog\/welcome.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/welcome.html",
+		"oF": 0
+		},
+	"\/blog\/what-i-admire-in-a-yoga-teacher.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/what-i-admire-in-a-yoga-teacher.html",
 		"oF": 0
 		},
 	"\/blog\/yoga-for-peaceful-sleep.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/blog\/yoga-for-peaceful-sleep.html",
+		"oAP": "\/build\/blog\/yoga-for-peaceful-sleep.html",
+		"oF": 0
+		},
+	"\/blog\/yoga-reads.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/yoga-reads.html",
 		"oF": 0
 		},
 	"\/classes.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/classes.html",
+		"oAP": "\/build\/classes.html",
 		"oF": 0
 		},
 	"\/contact.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/contact.html",
+		"oAP": "\/build\/contact.html",
 		"oF": 0
 		},
 	"\/css\/adaptive-ck.css": {
@@ -56,8 +110,8 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
-		"oAP": "\/css\/adaptive-ck-ck.css",
+		"oA": 1,
+		"oAP": "\/build\/css\/adaptive-ck-ck.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -67,7 +121,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/adaptive-ck.css",
+		"oAP": "\/build\/css\/adaptive-ck.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -77,7 +131,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bxslider-ck.css",
+		"oAP": "\/build\/css\/bxslider-ck.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -87,7 +141,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/font-awesome.min-ck.css",
+		"oAP": "\/build\/css\/font-awesome.min-ck.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -97,7 +151,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/fullcalendar-ck.css",
+		"oAP": "\/build\/css\/fullcalendar-ck.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -107,7 +161,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/fullcalendar.print-ck.css",
+		"oAP": "\/build\/css\/fullcalendar.print-ck.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -117,14 +171,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/main-ck.css",
+		"oAP": "\/build\/css\/main-ck.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/css\/main.css.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/css\/main.css.map",
+		"oA": 1,
+		"oAP": "\/build\/css\/main.css.map",
 		"oF": 0
 		},
 	"\/css\/selectric.css": {
@@ -133,7 +187,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/selectric-ck.css",
+		"oAP": "\/build\/css\/selectric-ck.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -143,39 +197,45 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/sprite-ck.css",
+		"oAP": "\/build\/css\/sprite-ck.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/event-abs-circuit.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/event-abs-circuit.html",
+		"oF": 0
 		},
 	"\/events.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/events.html",
+		"oAP": "\/build\/events.html",
 		"oF": 0
 		},
 	"\/events\/kirtan-for-diwali.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/events\/kirtan-for-diwali.html",
+		"oAP": "\/build\/events\/kirtan-for-diwali.html",
 		"oF": 0
 		},
 	"\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/favicon.ico",
+		"oAP": "\/build\/favicon.ico",
 		"oF": 0
 		},
 	"\/fonts\/fontawesome-webfont.eot": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/fontawesome-webfont.eot",
+		"oAP": "\/build\/fonts\/fontawesome-webfont.eot",
 		"oF": 0
 		},
 	"\/fonts\/fontawesome-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/fontawesome-webfont.svg",
+		"oAP": "\/build\/fonts\/fontawesome-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -184,578 +244,322 @@
 	"\/fonts\/fontawesome-webfont.ttf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/fontawesome-webfont.ttf",
+		"oAP": "\/build\/fonts\/fontawesome-webfont.ttf",
 		"oF": 0
 		},
 	"\/fonts\/fontawesome-webfont.woff": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/fontawesome-webfont.woff",
+		"oAP": "\/build\/fonts\/fontawesome-webfont.woff",
 		"oF": 0
 		},
 	"\/fonts\/FontAwesome.otf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/FontAwesome.otf",
+		"oAP": "\/build\/fonts\/FontAwesome.otf",
 		"oF": 0
+		},
+	"\/images\/10422023_10101854373447725_5631612353134183864_n.jpg": {
+		"ft": 16384,
+		"iS": 104488,
+		"oA": 0,
+		"oAP": "\/build\/images\/10422023_10101854373447725_5631612353134183864_n.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/14100328_10102875187438305_494902111582244340_n.jpg": {
+		"ft": 16384,
+		"iS": 45779,
+		"oA": 0,
+		"oAP": "\/build\/images\/14100328_10102875187438305_494902111582244340_n.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/14199303_10102875187448285_8446072474371272601_n.jpg": {
+		"ft": 16384,
+		"iS": 88395,
+		"oA": 0,
+		"oAP": "\/build\/images\/14199303_10102875187448285_8446072474371272601_n.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/404.png": {
+		"ft": 32768,
+		"iS": 2825,
+		"oA": 0,
+		"oAP": "\/build\/images\/404.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/464745_10100904103401515_706645562_o.jpg": {
+		"ft": 16384,
+		"iS": 189332,
+		"oA": 0,
+		"oAP": "\/build\/images\/464745_10100904103401515_706645562_o.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/about-me.jpg": {
+		"ft": 16384,
+		"iS": 196382,
+		"oA": 0,
+		"oAP": "\/build\/images\/about-me.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/about-nicole.jpg": {
+		"ft": 16384,
+		"iS": 173635,
+		"oA": 0,
+		"oAP": "\/build\/images\/about-nicole.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/art-of-adjustment.jpg": {
+		"ft": 16384,
+		"iS": 203577,
+		"oA": 0,
+		"oAP": "\/build\/images\/art-of-adjustment.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/build-it.jpg": {
+		"ft": 16384,
+		"iS": 67287,
+		"oA": 0,
+		"oAP": "\/build\/images\/blog\/build-it.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/home-yoga.jpg": {
+		"ft": 16384,
+		"iS": 49465,
+		"oA": 0,
+		"oAP": "\/build\/images\/blog\/home-yoga.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/how-music-moves-me.jpg": {
+		"ft": 16384,
+		"iS": 113240,
+		"oA": 0,
+		"oAP": "\/build\/images\/blog\/how-music-moves-me.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/peaceful-sleep.jpg": {
+		"ft": 16384,
+		"iS": 59436,
+		"oA": 0,
+		"oAP": "\/build\/images\/blog\/peaceful-sleep.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/restorative-yoga.jpg": {
+		"ft": 16384,
+		"iS": 27011,
+		"oA": 0,
+		"oAP": "\/build\/images\/blog\/restorative-yoga.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/welcome.jpg": {
+		"ft": 16384,
+		"iS": 41126,
+		"oA": 0,
+		"oAP": "\/build\/images\/blog\/welcome.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/what-i-admire.jpg": {
+		"ft": 16384,
+		"iS": 86402,
+		"oA": 0,
+		"oAP": "\/build\/images\/blog\/what-i-admire.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/yoga-assists.jpg": {
+		"ft": 16384,
+		"iS": 41491,
+		"oA": 0,
+		"oAP": "\/build\/images\/blog\/yoga-assists.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/yoga-practice.jpg": {
+		"ft": 16384,
+		"iS": 61389,
+		"oA": 0,
+		"oAP": "\/build\/images\/blog\/yoga-practice.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/blog\/yoga-reads.jpg": {
+		"ft": 16384,
+		"iS": 106290,
+		"oA": 0,
+		"oAP": "\/build\/images\/blog\/yoga-reads.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/images\/bx_loader.gif": {
 		"ft": 4194304,
 		"iS": 8581,
 		"oA": 0,
-		"oAP": "\/images\/bx_loader.gif",
+		"oAP": "\/build\/images\/bx_loader.gif",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/images\/content\/about.jpg": {
+	"\/images\/class-hero.jpg": {
 		"ft": 16384,
-		"iS": 73444,
+		"iS": 178632,
 		"oA": 0,
-		"oAP": "\/images\/content\/about.jpg",
+		"oAP": "\/build\/images\/class-hero.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/content\/bg-classes.jpg": {
+	"\/images\/contact-callout.jpg": {
 		"ft": 16384,
-		"iS": 66590,
+		"iS": 188949,
 		"oA": 0,
-		"oAP": "\/images\/content\/bg-classes.jpg",
+		"oAP": "\/build\/images\/contact-callout.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/content\/bg-parallax2.jpg": {
+	"\/images\/contact-hero.jpg": {
 		"ft": 16384,
-		"iS": 77680,
+		"iS": 348579,
 		"oA": 0,
-		"oAP": "\/images\/content\/bg-parallax2.jpg",
+		"oAP": "\/build\/images\/contact-hero.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/content\/bg-parallax3.jpg": {
+	"\/images\/contact-image.jpg": {
 		"ft": 16384,
-		"iS": 84174,
+		"iS": 85148,
 		"oA": 0,
-		"oAP": "\/images\/content\/bg-parallax3.jpg",
+		"oAP": "\/build\/images\/contact-image.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/content\/cart.jpg": {
+	"\/images\/contact-testimonial.jpg": {
 		"ft": 16384,
-		"iS": 87619,
+		"iS": 171425,
 		"oA": 0,
-		"oAP": "\/images\/content\/cart.jpg",
+		"oAP": "\/build\/images\/contact-testimonial.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/content\/cartImg.jpg": {
-		"ft": 16384,
-		"iS": 3608,
-		"oA": 0,
-		"oAP": "\/images\/content\/cartImg.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/cartImg2.jpg": {
-		"ft": 16384,
-		"iS": 3466,
-		"oA": 0,
-		"oAP": "\/images\/content\/cartImg2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/catalog.jpg": {
-		"ft": 16384,
-		"iS": 87619,
-		"oA": 0,
-		"oAP": "\/images\/content\/catalog.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/contact-image.jpg": {
-		"ft": 16384,
-		"iS": 193293,
-		"oA": 0,
-		"oAP": "\/images\/content\/contact-image.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/events.jpg": {
-		"ft": 16384,
-		"iS": 78235,
-		"oA": 0,
-		"oAP": "\/images\/content\/events.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/eventsItem.jpg": {
-		"ft": 16384,
-		"iS": 22230,
-		"oA": 0,
-		"oAP": "\/images\/content\/eventsItem.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/eventsItem2.jpg": {
-		"ft": 16384,
-		"iS": 18381,
-		"oA": 0,
-		"oAP": "\/images\/content\/eventsItem2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/eventsItem3.jpg": {
-		"ft": 16384,
-		"iS": 23197,
-		"oA": 0,
-		"oAP": "\/images\/content\/eventsItem3.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/eventsItem4.jpg": {
-		"ft": 16384,
-		"iS": 22644,
-		"oA": 0,
-		"oAP": "\/images\/content\/eventsItem4.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/gallery.jpg": {
-		"ft": 16384,
-		"iS": 29199,
-		"oA": 0,
-		"oAP": "\/images\/content\/gallery.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/galleryThumb.jpg": {
-		"ft": 16384,
-		"iS": 4635,
-		"oA": 0,
-		"oAP": "\/images\/content\/galleryThumb.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/galleryThumb2.jpg": {
-		"ft": 16384,
-		"iS": 4091,
-		"oA": 0,
-		"oAP": "\/images\/content\/galleryThumb2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/galleryThumb3.jpg": {
-		"ft": 16384,
-		"iS": 4030,
-		"oA": 0,
-		"oAP": "\/images\/content\/galleryThumb3.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/galleryThumb4.jpg": {
-		"ft": 16384,
-		"iS": 3685,
-		"oA": 0,
-		"oAP": "\/images\/content\/galleryThumb4.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/grid.jpg": {
-		"ft": 16384,
-		"iS": 15843,
-		"oA": 0,
-		"oAP": "\/images\/content\/grid.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/grid2.jpg": {
-		"ft": 16384,
-		"iS": 17818,
-		"oA": 0,
-		"oAP": "\/images\/content\/grid2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/gridbig.jpg": {
-		"ft": 16384,
-		"iS": 60575,
-		"oA": 0,
-		"oAP": "\/images\/content\/gridbig.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/homeslide.jpg": {
-		"ft": 16384,
-		"iS": 114321,
-		"oA": 0,
-		"oAP": "\/images\/content\/homeslide.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/homeslide2.jpg": {
-		"ft": 16384,
-		"iS": 738045,
-		"oA": 0,
-		"oAP": "\/images\/content\/homeslide2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/inst.jpg": {
-		"ft": 16384,
-		"iS": 12201,
-		"oA": 0,
-		"oAP": "\/images\/content\/inst.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/inst2.jpg": {
-		"ft": 16384,
-		"iS": 12866,
-		"oA": 0,
-		"oAP": "\/images\/content\/inst2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/inst3.jpg": {
-		"ft": 16384,
-		"iS": 14536,
-		"oA": 0,
-		"oAP": "\/images\/content\/inst3.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/inst4.jpg": {
-		"ft": 16384,
-		"iS": 11940,
-		"oA": 0,
-		"oAP": "\/images\/content\/inst4.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/inst5.jpg": {
-		"ft": 16384,
-		"iS": 13053,
-		"oA": 0,
-		"oAP": "\/images\/content\/inst5.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/main.jpg": {
-		"ft": 16384,
-		"iS": 52634,
-		"oA": 0,
-		"oAP": "\/images\/content\/main.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/miniCartImg.jpg": {
-		"ft": 16384,
-		"iS": 2499,
-		"oA": 0,
-		"oAP": "\/images\/content\/miniCartImg.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/miniCartImg2.jpg": {
-		"ft": 16384,
-		"iS": 2545,
-		"oA": 0,
-		"oAP": "\/images\/content\/miniCartImg2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/nextEvent.jpg": {
-		"ft": 16384,
-		"iS": 69057,
-		"oA": 0,
-		"oAP": "\/images\/content\/nextEvent.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/ourValues1.jpg": {
-		"ft": 16384,
-		"iS": 69057,
-		"oA": 0,
-		"oAP": "\/images\/content\/ourValues1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/ourValues2.jpg": {
-		"ft": 16384,
-		"iS": 88858,
-		"oA": 0,
-		"oAP": "\/images\/content\/ourValues2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/ourValues3.jpg": {
-		"ft": 16384,
-		"iS": 77270,
-		"oA": 0,
-		"oAP": "\/images\/content\/ourValues3.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg.jpg": {
-		"ft": 16384,
-		"iS": 15870,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg0.jpg": {
-		"ft": 16384,
-		"iS": 61621,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg0.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg01.jpg": {
-		"ft": 16384,
-		"iS": 10302,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg01.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg2.jpg": {
-		"ft": 16384,
-		"iS": 19682,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg3.jpg": {
-		"ft": 16384,
-		"iS": 16549,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg3.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg4.jpg": {
-		"ft": 16384,
-		"iS": 17736,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg4.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg5.jpg": {
-		"ft": 16384,
-		"iS": 16727,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg5.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg6.jpg": {
-		"ft": 16384,
-		"iS": 19107,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg6.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg7.jpg": {
-		"ft": 16384,
-		"iS": 17881,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg7.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg8.jpg": {
-		"ft": 16384,
-		"iS": 19401,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg8.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/postimg9.jpg": {
-		"ft": 16384,
-		"iS": 18151,
-		"oA": 0,
-		"oAP": "\/images\/content\/postimg9.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/proImg.jpg": {
-		"ft": 16384,
-		"iS": 34068,
-		"oA": 0,
-		"oAP": "\/images\/content\/proImg.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/proImg2.jpg": {
-		"ft": 16384,
-		"iS": 35535,
-		"oA": 0,
-		"oAP": "\/images\/content\/proImg2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/proImg3.jpg": {
-		"ft": 16384,
-		"iS": 35548,
-		"oA": 0,
-		"oAP": "\/images\/content\/proImg3.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/proImg4.jpg": {
-		"ft": 16384,
-		"iS": 35539,
-		"oA": 0,
-		"oAP": "\/images\/content\/proImg4.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/shopitem.jpg": {
-		"ft": 16384,
-		"iS": 7953,
-		"oA": 0,
-		"oAP": "\/images\/content\/shopitem.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/shopitem0.jpg": {
-		"ft": 16384,
-		"iS": 11141,
-		"oA": 0,
-		"oAP": "\/images\/content\/shopitem0.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/shopitem1.jpg": {
-		"ft": 16384,
-		"iS": 8516,
-		"oA": 0,
-		"oAP": "\/images\/content\/shopitem1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/shopitem2.jpg": {
-		"ft": 16384,
-		"iS": 7331,
-		"oA": 0,
-		"oAP": "\/images\/content\/shopitem2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/singleEvent.jpg": {
-		"ft": 16384,
-		"iS": 91121,
-		"oA": 0,
-		"oAP": "\/images\/content\/singleEvent.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/story.jpg": {
-		"ft": 16384,
-		"iS": 30399,
-		"oA": 0,
-		"oAP": "\/images\/content\/story.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/subscribe.jpg": {
-		"ft": 16384,
-		"iS": 79867,
-		"oA": 0,
-		"oAP": "\/images\/content\/subscribe.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/team1.jpg": {
-		"ft": 16384,
-		"iS": 20150,
-		"oA": 0,
-		"oAP": "\/images\/content\/team1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/team10.png": {
+	"\/images\/controls.png": {
 		"ft": 32768,
-		"iS": 49540,
+		"iS": 868,
 		"oA": 0,
-		"oAP": "\/images\/content\/team10.png",
+		"oAP": "\/build\/images\/controls.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/content\/team2.jpg": {
+	"\/images\/events-hero.jpg": {
 		"ft": 16384,
-		"iS": 19672,
+		"iS": 125704,
 		"oA": 0,
-		"oAP": "\/images\/content\/team2.jpg",
+		"oAP": "\/build\/images\/events-hero.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/content\/team3.jpg": {
+	"\/images\/events\/arm-balance-inversion.jpg": {
 		"ft": 16384,
-		"iS": 21927,
+		"iS": 172250,
 		"oA": 0,
-		"oAP": "\/images\/content\/team3.jpg",
+		"oAP": "\/build\/images\/events\/arm-balance-inversion.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/content\/team4.jpg": {
+	"\/images\/events\/d.jpg": {
 		"ft": 16384,
-		"iS": 21186,
+		"iS": 80358,
 		"oA": 0,
-		"oAP": "\/images\/content\/team4.jpg",
+		"oAP": "\/build\/images\/events\/d.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/content\/team5.jpg": {
+	"\/images\/events\/events-callout.jpg": {
 		"ft": 16384,
-		"iS": 18946,
+		"iS": 259749,
 		"oA": 0,
-		"oAP": "\/images\/content\/team5.jpg",
+		"oAP": "\/build\/images\/events\/events-callout.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/content\/team6.jpg": {
+	"\/images\/events\/ff.jpg": {
 		"ft": 16384,
-		"iS": 21320,
+		"iS": 58912,
 		"oA": 0,
-		"oAP": "\/images\/content\/team6.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/team7.jpg": {
-		"ft": 16384,
-		"iS": 22285,
-		"oA": 0,
-		"oAP": "\/images\/content\/team7.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/content\/video.jpg": {
-		"ft": 16384,
-		"iS": 34645,
-		"oA": 0,
-		"oAP": "\/images\/content\/video.jpg",
+		"oAP": "\/build\/images\/events\/ff.jpg",
 		"oF": 0,
 		"opt": 0
 		},
 	"\/images\/events\/kirtan.jpg": {
 		"ft": 16384,
-		"iS": 104577,
+		"iS": 56785,
 		"oA": 0,
-		"oAP": "\/images\/events\/kirtan.jpg",
+		"oAP": "\/build\/images\/events\/kirtan.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/events\/skillful-assist.jpg": {
+	"\/images\/events\/powerflow.jpg": {
 		"ft": 16384,
-		"iS": 54577,
+		"iS": 192572,
 		"oA": 0,
-		"oAP": "\/images\/events\/skillful-assist.jpg",
+		"oAP": "\/build\/images\/events\/powerflow.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/events\/skillful-adjust.jpg": {
+		"ft": 16384,
+		"iS": 54250,
+		"oA": 0,
+		"oAP": "\/build\/images\/events\/skillful-adjust.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/events\/welcome.jpg": {
+		"ft": 16384,
+		"iS": 29869,
+		"oA": 0,
+		"oAP": "\/build\/images\/events\/welcome.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/everyday-practice.jpg": {
+		"ft": 16384,
+		"iS": 206636,
+		"oA": 0,
+		"oAP": "\/build\/images\/everyday-practice.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/full-size\/IMG_0789.jpg": {
+		"ft": 16384,
+		"iS": 16520900,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_0789.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/full-size\/IMG_0808.jpg": {
+		"ft": 16384,
+		"iS": 16247200,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_0808.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/full-size\/IMG_0884.jpg": {
+		"ft": 16384,
+		"iS": 18399100,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_0884.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -763,7 +567,7 @@
 		"ft": 16384,
 		"iS": 11323928,
 		"oA": 0,
-		"oAP": "\/images\/full-size\/IMG_7475.jpg",
+		"oAP": "\/build\/images\/full-size\/IMG_7475.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -771,7 +575,7 @@
 		"ft": 16384,
 		"iS": 12370297,
 		"oA": 0,
-		"oAP": "\/images\/full-size\/IMG_7485.jpg",
+		"oAP": "\/build\/images\/full-size\/IMG_7485.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -779,7 +583,7 @@
 		"ft": 16384,
 		"iS": 11004136,
 		"oA": 0,
-		"oAP": "\/images\/full-size\/IMG_7488.jpg",
+		"oAP": "\/build\/images\/full-size\/IMG_7488.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -787,7 +591,7 @@
 		"ft": 16384,
 		"iS": 11403811,
 		"oA": 0,
-		"oAP": "\/images\/full-size\/IMG_7492.jpg",
+		"oAP": "\/build\/images\/full-size\/IMG_7492.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -795,7 +599,7 @@
 		"ft": 16384,
 		"iS": 9685755,
 		"oA": 0,
-		"oAP": "\/images\/full-size\/IMG_7495.jpg",
+		"oAP": "\/build\/images\/full-size\/IMG_7495.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -803,7 +607,7 @@
 		"ft": 16384,
 		"iS": 7176488,
 		"oA": 0,
-		"oAP": "\/images\/full-size\/IMG_7511.jpg",
+		"oAP": "\/build\/images\/full-size\/IMG_7511.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -811,7 +615,7 @@
 		"ft": 16384,
 		"iS": 16891647,
 		"oA": 0,
-		"oAP": "\/images\/full-size\/IMG_7538.jpg",
+		"oAP": "\/build\/images\/full-size\/IMG_7538.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -819,31 +623,55 @@
 		"ft": 16384,
 		"iS": 24204381,
 		"oA": 0,
-		"oAP": "\/images\/full-size\/IMG_7545.jpg",
+		"oAP": "\/build\/images\/full-size\/IMG_7545.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/IMG_0789.jpg": {
+	"\/images\/gridbig.jpg": {
 		"ft": 16384,
-		"iS": 16520900,
+		"iS": 108362,
 		"oA": 0,
-		"oAP": "\/images\/IMG_0789.jpg",
+		"oAP": "\/build\/images\/gridbig.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/IMG_0808.jpg": {
+	"\/images\/hero.jpg": {
 		"ft": 16384,
-		"iS": 16247200,
+		"iS": 254331,
 		"oA": 0,
-		"oAP": "\/images\/IMG_0808.jpg",
+		"oAP": "\/build\/images\/hero.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/IMG_0884.jpg": {
+	"\/images\/homepage-testimonial.jpg": {
 		"ft": 16384,
-		"iS": 18399100,
+		"iS": 210369,
 		"oA": 0,
-		"oAP": "\/images\/IMG_0884.jpg",
+		"oAP": "\/build\/images\/homepage-testimonial.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/homeslide.jpg": {
+		"ft": 16384,
+		"iS": 359801,
+		"oA": 0,
+		"oAP": "\/build\/images\/homeslide.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/homeslide2.jpg": {
+		"ft": 16384,
+		"iS": 631041,
+		"oA": 0,
+		"oAP": "\/build\/images\/homeslide2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/IMG_0898.jpg": {
+		"ft": 16384,
+		"iS": 376971,
+		"oA": 0,
+		"oAP": "\/build\/images\/IMG_0898.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -851,7 +679,31 @@
 		"ft": 16384,
 		"iS": 12622800,
 		"oA": 0,
-		"oAP": "\/images\/IMG_0933.jpg",
+		"oAP": "\/build\/images\/IMG_0933.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/IMG_1035.jpg": {
+		"ft": 16384,
+		"iS": 265162,
+		"oA": 0,
+		"oAP": "\/build\/images\/IMG_1035.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/IMG_2415.JPG": {
+		"ft": 16384,
+		"iS": 152487,
+		"oA": 0,
+		"oAP": "\/build\/images\/IMG_2415.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/impossible-is-nothing.jpg": {
+		"ft": 16384,
+		"iS": 242850,
+		"oA": 0,
+		"oAP": "\/build\/images\/impossible-is-nothing.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -859,7 +711,7 @@
 		"ft": 16384,
 		"iS": 75418,
 		"oA": 0,
-		"oAP": "\/images\/instagram\/insta-1.jpg",
+		"oAP": "\/build\/images\/instagram\/insta-1.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -867,7 +719,7 @@
 		"ft": 16384,
 		"iS": 97053,
 		"oA": 0,
-		"oAP": "\/images\/instagram\/insta-2.jpg",
+		"oAP": "\/build\/images\/instagram\/insta-2.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -875,7 +727,7 @@
 		"ft": 16384,
 		"iS": 74454,
 		"oA": 0,
-		"oAP": "\/images\/instagram\/insta-3.jpg",
+		"oAP": "\/build\/images\/instagram\/insta-3.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -883,7 +735,7 @@
 		"ft": 16384,
 		"iS": 40100,
 		"oA": 0,
-		"oAP": "\/images\/instagram\/insta-4.jpg",
+		"oAP": "\/build\/images\/instagram\/insta-4.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -891,7 +743,15 @@
 		"ft": 16384,
 		"iS": 122830,
 		"oA": 0,
-		"oAP": "\/images\/instagram\/insta-5.jpg",
+		"oAP": "\/build\/images\/instagram\/insta-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/live-what-you-love.jpg": {
+		"ft": 16384,
+		"iS": 190146,
+		"oA": 0,
+		"oAP": "\/build\/images\/live-what-you-love.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -899,7 +759,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/logo-black.svg",
+		"oAP": "\/build\/images\/logo-black.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -909,43 +769,91 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/logo-white.svg",
+		"oAP": "\/build\/images\/logo-white.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/images\/main.jpg": {
+		"ft": 16384,
+		"iS": 165867,
+		"oA": 0,
+		"oAP": "\/build\/images\/main.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/images\/marker.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/marker.svg",
+		"oAP": "\/build\/images\/marker.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/images\/mat-pose-1.jpg": {
+		"ft": 16384,
+		"iS": 281904,
+		"oA": 0,
+		"oAP": "\/build\/images\/mat-pose-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/nicole-homepage.jpg": {
+		"ft": 16384,
+		"iS": 118631,
+		"oA": 0,
+		"oAP": "\/build\/images\/nicole-homepage.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/nicole-pose-1.jpg": {
+		"ft": 16384,
+		"iS": 58912,
+		"oA": 0,
+		"oAP": "\/build\/images\/nicole-pose-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/nicole-tree.jpg": {
+		"ft": 16384,
+		"iS": 314841,
+		"oA": 0,
+		"oAP": "\/build\/images\/nicole-tree.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/images\/sprite.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/sprite.svg",
+		"oAP": "\/build\/images\/sprite.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/images\/yoga-classes.jpg": {
+		"ft": 16384,
+		"iS": 111239,
+		"oA": 0,
+		"oAP": "\/build\/images\/yoga-classes.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/index.html",
+		"oAP": "\/build\/index.html",
 		"oF": 0
 		},
 	"\/js\/fullcalendar.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/fullcalendar.min-min.js",
+		"oAP": "\/build\/js\/min\/fullcalendar.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -954,7 +862,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/jquery-1.9.1.min-min.js",
+		"oAP": "\/build\/js\/min\/jquery-1.9.1.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -963,7 +871,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/jquery.bxslider.min-min.js",
+		"oAP": "\/build\/js\/min\/jquery.bxslider.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -972,7 +880,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/jquery.selectric.min-min.js",
+		"oAP": "\/build\/js\/min\/jquery.selectric.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/min\/fullcalendar.min-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/js\/min\/min\/fullcalendar.min-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -981,7 +898,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/js\/min\/min\/script-min-min.js",
+		"oAP": "\/build\/js\/min\/min\/script-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -990,7 +907,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/moment.min-min.js",
+		"oAP": "\/build\/js\/min\/moment.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -999,7 +916,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/script-min.js",
+		"oAP": "\/build\/js\/min\/script-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1013,7 +930,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/README.html",
+		"oAP": "\/build\/README.html",
 		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
@@ -1025,13 +942,13 @@
 	"\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/_base.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/_base.scssc",
+		"oAP": "\/build\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/_base.scssc",
 		"oF": 0
 		},
 	"\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/main.scssc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/main.scssc",
+		"oAP": "\/build\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/main.scssc",
 		"oF": 0
 		},
 	"\/sass\/_base.scss": {
@@ -1042,7 +959,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/css\/_base.css",
+		"oAP": "\/build\/css\/_base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1055,7 +972,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/sass\/css\/_navigation.css",
+		"oAP": "\/build\/sass\/css\/_navigation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1068,9 +985,22 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/css\/main.css",
+		"oAP": "\/build\/css\/main.css",
 		"oF": 1,
 		"oS": 3,
+		"uL": 1
+		},
+	"\/sass\/pages\/_classes.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/build\/sass\/css\/_classes.css",
+		"oF": 0,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/sass\/pages\/_contact.scss": {
@@ -1081,7 +1011,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/sass\/css\/_contact.css",
+		"oAP": "\/build\/sass\/css\/_contact.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1089,13 +1019,13 @@
 	"\/single-event.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/single-event.html",
+		"oAP": "\/build\/single-event.html",
 		"oF": 0
 		},
 	"\/single-post.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/single-post.html",
+		"oAP": "\/build\/single-post.html",
 		"oF": 0
 		}
 	},
@@ -1371,7 +1301,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 0,
+	"buildFolderActive": 1,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -3176,7 +3106,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "\/build"
 	},
 "settingsFileVersion": "3"
 }

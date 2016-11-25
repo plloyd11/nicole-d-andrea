@@ -22,139 +22,6 @@
 	<script type="text/javascript" src="js/fullcalendar.min.js"></script>
 	<script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
 	<script type="text/javascript" src="js/script.js"></script>
-	<script>
-		$(document).ready(function() {
-
-			$('#calendar').fullCalendar({
-				header: {
-					left: 'prev',
-					center: 'title',
-					right: 'next'
-				},
-				axisFormat: 'HH:mm',
-				minTime: '08:00:00',
-				maxTime: '22:00:00',
-				defaultView: 'agendaWeek',
-				defaultDate: '2016-10-31',
-				firstDay: 1,
-				slotDuration: '01:00:00',
-				columnFormat: 'dddd',
-				allDaySlot: false,
-				editable: false,
-				eventLimit: true, // allow "more" link when too many events
-				events: [{
-					title: 'Powerflow Yoga (Randolph) – Hot Vinyasa Power Hour',
-					start: '2016-10-31T12:00:00',
-					end: '2016-10-31T14:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-yoga'
-				}, {
-					title: ' South Mountain Yoga – Basic',
-					start: '2016-10-31T18:15:00',
-					end: '2016-10-31T20:00:00',
-					url: 'http://southmountainyoga.com/',
-					className: 'fc-event-yoga'
-				}, {
-					title: 'Bhakti Barn Yoga (Glen Ridge) – Gentle Yoga',
-					start: '2016-11-01T11:30:00',
-					end: '2016-11-01T01:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-yoga'
-				}, {
-					title: 'Dhyana Yoga Arts – Open Level Vinyasa',
-					start: '2016-11-02T12:45:00',
-					end: '2016-11-02T02:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-cardio-fitness'
-				}, {
-					title: 'Bhakti Barn Yoga (Millburn) – Bhakti Basics',
-					start: '2016-11-02T19:45:00',
-					end: '2016-11-02T21:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-cardio-fitness'
-				}, {
-					title: 'hOMe Yoga Experience-Mixed Level Vinyasa',
-					start: '2016-11-03T09:30:00',
-					end: '2016-11-03T11:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-cardio-fitness'
-				}, {
-					title: 'hOMe Yoga Experience – Mixed Level Vinyasa',
-					start: '2016-11-03T19:15:00',
-					end: '2016-11-03T21:00:00',
-					url: 'http://homeyogaexperience.com/',
-					className: 'fc-event-cardio-fitness'
-				}, {
-					title: 'Bhakti Barn Yoga (Glen Ridge) – Gentle Yoga',
-					start: '2016-11-04T11:30:00',
-					end: '2016-11-04T13:00:00',
-					url: 'http://homeyogaexperience.com/',
-					className: 'fc-event-cardio-fitness'
-				}, {
-					title: 'Bhakti Barn Yoga (Millburn) –  Open Level Vinyasa',
-					start: '2016-11-06T08:30:00',
-					end: '2016-11-06T10:00:00',
-					url: 'http://homeyogaexperience.com/',
-					className: 'fc-event-cardio-fitness'
-				}, {
-					title: 'Bhakti Barn Yoga (Glen Ridge) – Open Level Vinyasa',
-					start: '2016-11-06T11:00:00',
-					end: '2016-11-06T13:00:00',
-					url: 'http://homeyogaexperience.com/',
-					className: 'fc-event-cardio-fitness'
-				}, {
-					title: 'Spinning with Jeremy Clark',
-					start: '2015-03-09T13:00:00',
-					end: '2015-03-09T14:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-spinning'
-				}, {
-					title: 'Spinning with Jeremy Clark',
-					start: '2015-03-12T17:00:00',
-					end: '2015-03-12T18:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-spinning'
-				}, {
-					title: 'Spinning with Jeremy Clark',
-					start: '2015-03-15T09:00:00',
-					end: '2015-03-15T10:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-spinning'
-				}, {
-					title: 'Spinning with Jeremy Clark',
-					start: '2015-03-16T13:00:00',
-					end: '2015-03-16T14:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-spinning'
-				}, {
-					title: 'Spinning with Jeremy Clark',
-					start: '2015-03-18T17:00:00',
-					end: '2015-03-18T18:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-spinning'
-				}, {
-					title: 'Spinning with Jeremy Clark',
-					start: '2015-03-19T09:00:00',
-					end: '2015-03-19T10:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-spinning'
-				}, {
-					title: 'Pilates with Danielle Hayes',
-					start: '2015-03-17T10:00:00',
-					end: '2015-03-17T12:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-pilates'
-				}, {
-					title: 'Aerobics with Michelle Richards',
-					start: '2015-03-19T13:00:00',
-					end: '2015-03-19T15:00:00',
-					url: 'http://google.com/',
-					className: 'fc-event-aerobics'
-				}]
-			});
-
-		});
-	</script>
 
 </head>
 
@@ -196,19 +63,169 @@
 			<h1>choose your classes</h1>
 		</div>
 		<div class="contentWrap">
-			<div class="pagePanel clear">
-				<ul class="productFilter classesFilter clear">
-					<li><a class="active" data-filter="all" href="#">All </a></li>
-					<li><a data-filter="fc-event-yoga" href="#">Yoga</a></li>
-					<li><a data-filter="fc-event-pilates" href="#">Pilates</a></li>
-					<li><a data-filter="fc-event-aerobics" href="#">aerobics </a></li>
-					<li><a data-filter="fc-event-spinning" href="#">spinning</a></li>
-					<li><a data-filter="fc-event-cardio-fitness" href="#">cardio fitness</a></li>
-				</ul>
+			<div class="cd-schedule loading">
+				<div class="timeline">
+					<ul>
+						<li><span>08:00</span></li>
+						<li><span>08:30</span></li>
+						<li><span>9:00</span></li>
+						<li><span>9:30</span></li>
+						<li><span>10:00</span></li>
+						<li><span>10:30</span></li>
+						<li><span>11:00</span></li>
+						<li><span>11:30</span></li>
+						<li><span>12:00</span></li>
+						<li><span>12:30</span></li>
+						<li><span>13:00</span></li>
+						<li><span>13:30</span></li>
+						<li><span>14:00</span></li>
+						<li><span>14:30</span></li>
+						<li><span>15:00</span></li>
+						<li><span>15:30</span></li>
+						<li><span>16:00</span></li>
+						<li><span>16:30</span></li>
+						<li><span>17:00</span></li>
+						<li><span>17:30</span></li>
+						<li><span>18:00</span></li>
+						<li><span>18:30</span></li>
+						<li><span>19:00</span></li>
+						<li><span>19:30</span></li>
+						<li><span>20:00</span></li>
+						<li><span>20:30</span></li>
+						<li><span>21:00</span></li>
+
+					</ul>
+				</div>
+				<!-- .timeline -->
+
+				<div class="events">
+					<ul>
+						<li class="events-group">
+							<div class="top-info"><span>Monday</span></div>
+
+							<ul>
+								<li class="single-event" data-start="08:15" data-end="9:15" data-content="event-abs-circuit" data-event="event-1">
+									<a href="#0">
+										<em class="event-name">Vinyasa Flow</em>
+										<p class="event-location">Dhyana Yoga Arts</p>
+									</a>
+								</li>
+
+								<li class="single-event" data-start="12:00" data-end="13:00" data-content="event-abs-circuit" data-event="event-1">
+									<a href="#0">
+										<em class="event-name">Heated Vinyasa Flow</em>
+										<p class="event-location">Powerflow Yoga (Randolph)</p>
+									</a>
+								</li>
+
+								<li class="single-event" data-start="18:15" data-end="19:45" data-content="event-abs-circuit" data-event="event-2">
+									<a href="#0">
+										<em class="event-name">Basics</em>
+										<p class="event-location">South Mountain Yoga</p>
+									</a>
+								</li>
+							</ul>
+						</li>
+
+						<li class="events-group">
+							<div class="top-info"><span>Tuesday</span></div>
+
+							<ul>
+								<li class="single-event" data-start="11:30" data-end="12:45" data-content="event-abs-circuit" data-event="event-3">
+									<a href="#0">
+										<em class="event-name">Gentle Yoga</em>
+										<p class="event-location">Bhakti Barn Yoga (Glen Ridge)</p>
+									</a>
+								</li>
+							</ul>
+						</li>
+
+						<li class="events-group">
+							<div class="top-info"><span>Wednesday</span></div>
+
+							<ul>
+								<li class="single-event" data-start="12:45" data-end="13:45" data-content="event-abs-circuit" data-event="event-1">
+									<a href="#0">
+										<em class="event-name">Vinyasa Flow</em>
+										<p class="event-location">Dhyana Yoga Arts</p>
+									</a>
+								</li>
+
+								<li class="single-event" data-start="17:00" data-end="18:00" data-content="event-abs-circuit" data-event="event-1">
+									<a href="#0">
+										<em class="event-name">Vinyasa Flow</em>
+										<p class="event-location">Bhakti Barn Yoga (Millburn)</p>
+									</a>
+								</li>
+
+								<li class="single-event" data-start="019:45" data-end="20:45" data-content="event-abs-circuit" data-event="event-2">
+									<a href="#0">
+										<em class="event-name">Basics</em>
+										<p class="event-location">Bhakti Barn Yoga (Millburn)</p>
+									</a>
+								</li>
+
+							</ul>
+						</li>
+
+						<li class="events-group">
+							<div class="top-info"><span>Friday</span></div>
+
+							<ul>
+								<li class="single-event" data-start="11:30" data-end="12:45" data-content="event-rowing-workout" data-event="event-1">
+									<a href="#0">
+										<em class="event-name">Vinyasa Flow</em>
+										<p class="event-location">Bhakti Barn Yoga (Millburn)</p>
+									</a>
+								</li>
+							</ul>
+						</li>
+						<!-- SUNDAY -->
+						<li class="events-group">
+							<div class="top-info"><span>Sunday</span></div>
+
+							<ul>
+								<li class="single-event" data-start="8:30" data-end="9:45" data-content="event-rowing-workout" data-event="event-1">
+									<a href="#0">
+										<em class="event-name">Vinyasa Flow</em>
+										<p class="event-location">Bhakti Barn Yoga (Millburn)</p>
+									</a>
+								</li>
+
+								<li class="single-event" data-start="11:00" data-end="12:15" data-content="event-rowing-workout" data-event="event-1">
+									<a href="#0">
+										<em class="event-name">Vinyasa Flow</em>
+										<p class="event-location">Bhakti Barn Yoga (Glen Ridge)</p>
+									</a>
+								</li>
+
+							</ul>
+						</li>
+						<!-- / SUNDAY -->
+					</ul>
+				</div>
+
+				<div class="event-modal">
+					<header class="header">
+						<div class="content">
+							<span class="event-date"></span>
+							<h3 class="event-name"></h3>
+						</div>
+
+						<div class="header-bg"></div>
+					</header>
+
+					<div class="body">
+						<div class="event-info"></div>
+						<div class="body-bg"></div>
+					</div>
+
+					<a href="#0" class="close">Close</a>
+				</div>
+
+				<div class="cover-layer"></div>
 			</div>
-			<div class="classesCallendar">
-				<div id='calendar'></div>
-			</div>
+			<!-- .cd-schedule -->
 		</div>
 	</section>
 	<!-- Begin Footer -->

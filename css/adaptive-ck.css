@@ -90,8 +90,6 @@
   #header .headerWrap {
     height: 100px;
     border-bottom-color: transparent; }
-  .logo {
-    margin: 14px 0 0 20px; }
   .mainMenu {
     display: none; }
   .showMobileMenu {
@@ -370,6 +368,12 @@
   .relatedProducts .shopItem:last-child {
     display: inline-block; } }
 
+@media only screen and (max-width: 991px) {
+  .parallaxBox, .classesBox {
+    background-size: auto 100% !important;
+    background-position: center center !important;
+    background-attachment: inherit !important; } }
+
 @media only screen and (max-width: 767px) {
   body {
     min-width: 470px; }
@@ -577,11 +581,7 @@
   .productDesc {
     margin-right: 19px; }
   .relatedProducts .shopItem {
-    width: 210px; }
-  .parallaxBox, .classesBox {
-    background-size: auto 100% !important;
-    background-position: center center !important;
-    background-attachment: inherit !important; } }
+    width: 210px; } }
 
 @media only screen and (max-width: 594px) {
   .footerSubscribe {

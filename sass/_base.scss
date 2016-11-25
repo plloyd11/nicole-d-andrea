@@ -318,6 +318,10 @@ a:hover {
     height: 90px;
 }
 
+.txt-white {
+    color: #fff;
+}
+
 #header .headerWrap {
     width: 100%;
     position: fixed!important;
@@ -802,7 +806,7 @@ a:hover {
 .mainItemDesc p {
     line-height: 32px;
     margin-bottom: 72px;
-    color: #c1f4e8;
+    color: #fff;
     font-size: 22px;
     font-weight: 400;
 }
@@ -812,8 +816,8 @@ a:hover {
     display: inline-block;
     line-height: 42px;
     width: 160px;
-    border: 2px solid #96e9d5;
-    color: #96e9d5;
+    border: 2px solid #fff;
+    color: #fff;
     font-size: 12px;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
@@ -1058,6 +1062,33 @@ a:hover {
 .shopItemsWrap {
     margin-bottom: 48px;
     text-align: center;
+}
+
+.testimonial-box {
+    height: 560px;
+    width: 100%;
+    padding-top: 75px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 0;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.testimonial-text {
+    padding: 2.25em;
+    background: rgba(95,199,175,0.75);
+
+    > p {
+        margin-top: 0.75em;
+        margin-bottom: 0.75em;
+        color: #fff;
+        font-size: 1.2rem;
+        line-height: 1.1;
+    }
 }
 
 .shopItem {
@@ -1801,14 +1832,14 @@ span.price span {
 }
 
 .ourValues .wrapper {
-    width: 570px;
+    width: 1000px;
     padding: 65px 0;
 }
 
 .ourValues .wrapper p {
     line-height: 30px;
     color: #7f7f7f;
-    font-size: 16px;
+    font-size: 17px;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     text-align: center;
@@ -2245,6 +2276,39 @@ span.price span {
     width: 22px;
     height: 31px;
     background-position: -170px 0;
+}
+
+.contact-testimonial {
+    display: flex;
+    flex-direction: column;
+    @media (min-width: 768px) {
+        flex-direction: row;
+    }
+
+    > div {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: center;
+
+        p {
+            margin-top: 0.75em;
+            margin-bottom: 0.75em;
+            padding-right: 2em;
+            padding-left: 2em;
+            line-height: 24px;
+            color: #7f7f7f;
+            font-size: 18px;
+            font-family: 'Lato', sans-serif;
+            font-weight: 300;
+        }
+
+        img {
+            max-width: 100%;
+            display: block;
+        }
+    }
 }
 
 .locationMap {}
@@ -2701,6 +2765,7 @@ span.price span {
     border-bottom: 1px solid #e5e5e5;
     padding-left: 552px;
     background: #fff;
+    overflow: hidden;
 }
 
 .eventItemImg {
@@ -4117,5 +4182,49 @@ span.price span {
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     .page404Wrap a.homePage {
         line-height: 46px;
+    }
+}
+
+.homepage-testimonial {
+    display: flex;
+    flex-direction: column;
+    @media (min-width: 768px) {
+        flex-direction: row;
+    }
+
+    &-text {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: center;
+        order: 2;
+        @media (min-width: 768px) {
+            order: 1;
+        }
+
+        > p {
+            margin-top: 0.75em;
+            margin-bottom: 0.75em;
+            padding-right: 2em;
+            padding-left: 2em;
+            line-height: 24px;
+            color: #7f7f7f;
+            font-size: 18px;
+            font-family: 'Lato', sans-serif;
+            font-weight: 300;
+        }
+    }
+
+    &-img {
+        flex: 1;
+        order: 1;
+        @media (min-width: 768px) {
+            order: 2;
+        }
+
+        > img {
+            max-width: 100%;
+        }
     }
 }
