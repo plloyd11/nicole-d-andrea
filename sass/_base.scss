@@ -4188,7 +4188,7 @@ span.price span {
 .homepage-testimonial {
     display: flex;
     flex-direction: column;
-    @media (min-width: 768px) {
+    @media (min-width: 991px) {
         flex-direction: row;
     }
 
