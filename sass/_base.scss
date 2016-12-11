@@ -1404,7 +1404,8 @@ span.price span {
     height: 46px;
 }
 
-.footerSubscribe input[type="text"] {
+.footerSubscribe input[type="text"],
+.footerSubscribe input[type="email"] {
     width: 100%;
     height: 100%;
     padding: 0 62px 0 22px;

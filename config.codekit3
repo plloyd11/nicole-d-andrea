@@ -93,10 +93,588 @@
 		"oAP": "\/blog\/yoga-reads.html",
 		"oF": 0
 		},
-	"\/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/build",
+	"\/build\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.gitignore",
+		"oF": 0
+		},
+	"\/build\/blog\/beginning-a-yoga-practice-and-your-very-first-class.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/beginning-a-yoga-practice-and-your-very-first-class.html",
+		"oF": 0
+		},
+	"\/build\/blog\/how-music-moves-me-the-power-of-sound.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/how-music-moves-me-the-power-of-sound.html",
+		"oF": 0
+		},
+	"\/build\/blog\/if-you-build-it.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/if-you-build-it.html",
+		"oF": 0
+		},
+	"\/build\/blog\/keys-to-a-successful-home-practice.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/keys-to-a-successful-home-practice.html",
+		"oF": 0
+		},
+	"\/build\/blog\/on-yoga-assists.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/on-yoga-assists.html",
+		"oF": 0
+		},
+	"\/build\/blog\/restorative-yoga.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/restorative-yoga.html",
+		"oF": 0
+		},
+	"\/build\/blog\/welcome.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/welcome.html",
+		"oF": 0
+		},
+	"\/build\/blog\/what-i-admire-in-a-yoga-teacher.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/what-i-admire-in-a-yoga-teacher.html",
+		"oF": 0
+		},
+	"\/build\/blog\/yoga-for-peaceful-sleep.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/yoga-for-peaceful-sleep.html",
+		"oF": 0
+		},
+	"\/build\/blog\/yoga-reads.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/blog\/yoga-reads.html",
+		"oF": 0
+		},
+	"\/build\/css\/adaptive-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/adaptive-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/build\/css\/bxslider-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/bxslider-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/build\/css\/font-awesome.min-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/font-awesome.min-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/build\/css\/fullcalendar-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/fullcalendar-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/build\/css\/fullcalendar.print-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/fullcalendar.print-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/build\/css\/main.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/main-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/build\/css\/main.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/css\/main.css.map",
+		"oF": 0
+		},
+	"\/build\/css\/selectric-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/selectric-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/build\/css\/sprite-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/sprite-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/build\/event-abs-circuit.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/event-abs-circuit.html",
+		"oF": 0
+		},
+	"\/build\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/favicon.ico",
+		"oF": 0
+		},
+	"\/build\/fonts\/fontawesome-webfont.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/fonts\/fontawesome-webfont.eot",
+		"oF": 0
+		},
+	"\/build\/fonts\/fontawesome-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/fonts\/fontawesome-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/build\/fonts\/fontawesome-webfont.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/fonts\/fontawesome-webfont.ttf",
+		"oF": 0
+		},
+	"\/build\/fonts\/fontawesome-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/fonts\/fontawesome-webfont.woff",
+		"oF": 0
+		},
+	"\/build\/fonts\/FontAwesome.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/fonts\/FontAwesome.otf",
+		"oF": 0
+		},
+	"\/build\/images\/10422023_10101854373447725_5631612353134183864_n.jpg": {
+		"ft": 16384,
+		"iS": 104317,
+		"oA": 0,
+		"oAP": "\/build\/images\/10422023_10101854373447725_5631612353134183864_n.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/14199303_10102875187448285_8446072474371272601_n.jpg": {
+		"ft": 16384,
+		"iS": 88209,
+		"oA": 0,
+		"oAP": "\/build\/images\/14199303_10102875187448285_8446072474371272601_n.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/404.png": {
+		"ft": 32768,
+		"iS": 2825,
+		"oA": 0,
+		"oAP": "\/build\/images\/404.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/464745_10100904103401515_706645562_o.jpg": {
+		"ft": 16384,
+		"iS": 188496,
+		"oA": 0,
+		"oAP": "\/build\/images\/464745_10100904103401515_706645562_o.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/about-me.jpg": {
+		"ft": 16384,
+		"iS": 196344,
+		"oA": 0,
+		"oAP": "\/build\/images\/about-me.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/art-of-adjustment.jpg": {
+		"ft": 16384,
+		"iS": 200215,
+		"oA": 0,
+		"oAP": "\/build\/images\/art-of-adjustment.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/bx_loader.gif": {
+		"ft": 4194304,
+		"iS": 5615,
+		"oA": 0,
+		"oAP": "\/build\/images\/bx_loader.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/contact-testimonial.jpg": {
+		"ft": 16384,
+		"iS": 171401,
+		"oA": 0,
+		"oAP": "\/build\/images\/contact-testimonial.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/controls.png": {
+		"ft": 32768,
+		"iS": 868,
+		"oA": 0,
+		"oAP": "\/build\/images\/controls.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/events\/ff.jpg": {
+		"ft": 16384,
+		"iS": 58694,
+		"oA": 0,
+		"oAP": "\/build\/images\/events\/ff.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/events\/kirtan.jpg": {
+		"ft": 16384,
+		"iS": 56538,
+		"oA": 0,
+		"oAP": "\/build\/images\/events\/kirtan.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/everyday-practice.jpg": {
+		"ft": 16384,
+		"iS": 206499,
+		"oA": 0,
+		"oAP": "\/build\/images\/everyday-practice.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_0789.jpg": {
+		"ft": 16384,
+		"iS": 15206824,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_0789.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_0808.jpg": {
+		"ft": 16384,
+		"iS": 14842005,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_0808.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_0884.jpg": {
+		"ft": 16384,
+		"iS": 16965650,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_0884.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_7475.jpg": {
+		"ft": 16384,
+		"iS": 10751552,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_7475.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_7485.jpg": {
+		"ft": 16384,
+		"iS": 11717275,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_7485.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_7488.jpg": {
+		"ft": 16384,
+		"iS": 10473302,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_7488.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_7492.jpg": {
+		"ft": 16384,
+		"iS": 10831045,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_7492.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_7495.jpg": {
+		"ft": 16384,
+		"iS": 9254468,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_7495.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_7511.jpg": {
+		"ft": 16384,
+		"iS": 6991402,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_7511.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_7538.jpg": {
+		"ft": 16384,
+		"iS": 15517973,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_7538.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/full-size\/IMG_7545.jpg": {
+		"ft": 16384,
+		"iS": 22307614,
+		"oA": 0,
+		"oAP": "\/build\/images\/full-size\/IMG_7545.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/IMG_0898.jpg": {
+		"ft": 16384,
+		"iS": 370961,
+		"oA": 0,
+		"oAP": "\/build\/images\/IMG_0898.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/IMG_0933.jpg": {
+		"ft": 16384,
+		"iS": 11384497,
+		"oA": 0,
+		"oAP": "\/build\/images\/IMG_0933.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/IMG_1035.jpg": {
+		"ft": 16384,
+		"iS": 263936,
+		"oA": 0,
+		"oAP": "\/build\/images\/IMG_1035.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/IMG_2415.jpg": {
+		"ft": 16384,
+		"iS": 149372,
+		"oA": 0,
+		"oAP": "\/build\/images\/IMG_2415.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/impossible-is-nothing.jpg": {
+		"ft": 16384,
+		"iS": 242626,
+		"oA": 0,
+		"oAP": "\/build\/images\/impossible-is-nothing.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/instagram\/insta-1.jpg": {
+		"ft": 16384,
+		"iS": 72257,
+		"oA": 0,
+		"oAP": "\/build\/images\/instagram\/insta-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/instagram\/insta-2.jpg": {
+		"ft": 16384,
+		"iS": 94021,
+		"oA": 0,
+		"oAP": "\/build\/images\/instagram\/insta-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/instagram\/insta-3.jpg": {
+		"ft": 16384,
+		"iS": 71475,
+		"oA": 0,
+		"oAP": "\/build\/images\/instagram\/insta-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/instagram\/insta-4.jpg": {
+		"ft": 16384,
+		"iS": 38566,
+		"oA": 0,
+		"oAP": "\/build\/images\/instagram\/insta-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/instagram\/insta-5.jpg": {
+		"ft": 16384,
+		"iS": 118231,
+		"oA": 0,
+		"oAP": "\/build\/images\/instagram\/insta-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/live-what-you-love.jpg": {
+		"ft": 16384,
+		"iS": 190112,
+		"oA": 0,
+		"oAP": "\/build\/images\/live-what-you-love.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/logo-black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/logo-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/build\/images\/logo-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/logo-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/build\/images\/marker.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/marker.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/build\/images\/nicole-pose-1.jpg": {
+		"ft": 16384,
+		"iS": 58694,
+		"oA": 0,
+		"oAP": "\/build\/images\/nicole-pose-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/build\/images\/sprite.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/sprite.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/build\/js\/min\/fullcalendar.min-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/min\/min\/fullcalendar.min-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/build\/js\/min\/jquery-1.9.1.min-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/min\/min\/jquery-1.9.1.min-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/build\/js\/min\/jquery.bxslider.min-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/min\/min\/jquery.bxslider.min-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/build\/js\/min\/jquery.selectric.min-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/min\/min\/jquery.selectric.min-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/build\/js\/min\/moment.min-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/min\/min\/moment.min-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/build\/js\/min\/script-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/min\/min\/script-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/build\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/README.html",
+		"oF": 0
+		},
+	"\/build\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/main.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sass\/.sass-cache\/e5f207a866ece29e5b52c71e6ba8400401f79c6e\/main.scssc",
 		"oF": 0
 		},
 	"\/classes.html": {

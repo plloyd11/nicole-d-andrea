@@ -166,7 +166,7 @@ Main Components
     }
 
     .cd-schedule .events .events-group {
-        width: 19%;
+        width: 16%;
         float: left;
         border: 1px solid #EAEAEA;
         /* reset style */
@@ -623,4 +623,9 @@ Main Components
 .cd-schedule.modal-is-open .cover-layer {
     opacity: 1;
     visibility: visible;
+}
+
+.event-name,
+.event-location {
+  padding: .35em;
 }
