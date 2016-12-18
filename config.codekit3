@@ -7,7 +7,7 @@
 		"uuidString": "7FE8C6F7-412C-489F-9675-E0BA34EE069F"
 		}
 	],
-"creatorBuild": "25444",
+"creatorBuild": "25479",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -1059,11 +1059,51 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/events\/client-adjust.jpg": {
+		"ft": 16384,
+		"iS": 69355,
+		"oA": 0,
+		"oAP": "\/images\/events\/client-adjust.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/events\/d.jpg": {
 		"ft": 16384,
 		"iS": 80358,
 		"oA": 0,
 		"oAP": "\/images\/events\/d.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/events\/events-1.jpg": {
+		"ft": 16384,
+		"iS": 50303,
+		"oA": 0,
+		"oAP": "\/images\/events\/events-1.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/events\/events-2.jpg": {
+		"ft": 16384,
+		"iS": 65713,
+		"oA": 0,
+		"oAP": "\/images\/events\/events-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/events\/events-4.jpg": {
+		"ft": 16384,
+		"iS": 85148,
+		"oA": 0,
+		"oAP": "\/images\/events\/events-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/events\/events-5.jpg": {
+		"ft": 16384,
+		"iS": 74454,
+		"oA": 0,
+		"oAP": "\/images\/events\/events-5.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1605,12 +1645,6 @@
 		"oA": 0,
 		"oAP": "\/single-event.html",
 		"oF": 0
-		},
-	"\/single-post.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/single-post.html",
-		"oF": 0
 		}
 	},
 "hooks": [
@@ -2075,6 +2109,10 @@
 			"active": 0,
 			"optionString": "{'properties': 'always'}"
 			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
 		"class-methods-use-this": {
 			"active": 0,
 			"optionString": "{'exceptMethods': []}"
@@ -2238,6 +2276,10 @@
 		"max-statements": {
 			"active": 0,
 			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
 			},
 		"multiline-ternary": {
 			"active": 0,
@@ -2603,6 +2645,10 @@
 			"active": 0,
 			"optionString": "'except-parens'"
 			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-script-url": {
 			"active": 0,
 			"optionString": ""
@@ -2834,6 +2880,10 @@
 		"radix": {
 			"active": 0,
 			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-jsdoc": {
 			"active": 0,
@@ -3667,6 +3717,10 @@
 			},
 		"space-colon": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"toplevel": {
